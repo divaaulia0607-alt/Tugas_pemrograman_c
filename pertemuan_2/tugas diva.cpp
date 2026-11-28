@@ -1,4 +1,4 @@
-giy#include <iostream>
+#include <iostream>
 
 int main() {
     std::cout << "====================================" << std::endl;
